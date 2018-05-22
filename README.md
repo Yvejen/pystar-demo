@@ -1,7 +1,7 @@
 # pystar-demo
 Python A* algorithm demo
 
-![](https://media.giphy.com/media/2UGbspgFnJWzztIg1X/giphy.gif)
+![](https://i.imgur.com/8iqXBWm.mp4)
 ### Usage
 Pressing 'l' loads a saved map.
 
